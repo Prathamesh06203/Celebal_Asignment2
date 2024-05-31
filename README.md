@@ -43,6 +43,7 @@ This is a basic web calculator built using Flask, a Python web framework. The ap
 - Enter the second number in the "Number 2" input field.
 - Select the desired operation from the dropdown menu.
 - Click the "Calculate" button to see the result.
+https://github.com/Prathamesh06203/Celebal_Asignment2/assets/98202938/673a5a43-98c3-497e-bc81-635810c568a3
 
 
 
